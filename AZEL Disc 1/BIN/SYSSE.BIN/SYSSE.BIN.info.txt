@@ -1,0 +1,22 @@
+Project File Name:      SYS SE.BIN
+Readonly:               false
+Program Name:           SYS SE.BIN
+Language ID:            SuperH:BE:32:SH-2 (1.0)
+Compiler ID:            default
+Processor:              SuperH
+Endian:                    Big
+Address Size:               32
+Minimum Address:            00000000
+Maximum Address:            00001c17
+# of Bytes:                 7192
+# of Memory Blocks:	        1
+# of Instructions:          0
+# of Defined Data:          0
+# of Functions:             0
+# of Symbols:               0
+# of Data Types:            0
+# of Data Type Categories:  1
+Created With Ghidra Version:10.1.4
+Executable Format:      Raw Binary
+Executable MD5:         5d18eef9ed14fec8c916c3ea39c36eb8
+Executable SHA256:      c3474472b9ebb76343d3d2eff7fc8b103d2e71d4aa950851a0745c0696637510

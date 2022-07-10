@@ -1,0 +1,511 @@
+Location,String Value,String Representation,Data Type
+00001e10,Normal,"""Normal""",ds
+00001e17,Special,"""Special""",ds
+00001e1f,Atk Dir,""" Atk Dir""",ds
+00001e2d,Length,"""Length""",ds
+00001e34,Height,"""Height""",ds
+00001e3b,Width,"""Width""",ds
+00001e41,Weight,"""Weight""",ds
+00001e48,Dynes,"""Dynes""",ds
+00001e6b,Display Data on Defeated Monsters (Pure Type),"""Display Data on Defeated Monsters\n(Pure Type)""",ds
+00001e99,Display Data on Defeated Monsters (Mutated),"""Display Data on Defeated Monsters\n(Mutated)""",ds
+00001ec5,Display Data on Defeated Imperial Forces,"""Display Data on Defeated\nImperial Forces""",ds
+00001eee,Display Data on Defeated Craymen's Fleet,"""Display Data on Defeated\nCraymen's Fleet""",ds
+00001f17,Dragon Models,"""Dragon Models""",ds
+0000259c,MENUEN.BIN,"""MENUEN.BIN""",ds
+000025a8,MENUEN.CGB,"""MENUEN.CGB""",ds
+00002634,MENUEN.FNT,"""MENUEN.FNT""",ds
+000028ee,]jPattergo,"""]jPattergo""",ds
+000028f9,"Found in the valleys, these peaceful creatures feed on rocks and minerals. They travel in small communal groups. They can only attack to the front, and have no natural defenses.","""Found in the valleys,\nthese peaceful creatures\nfeed on rocks and\nminerals. They travel in\nsmall communal groups.\nThey can only attack to\nthe front, and have no\nnatural defenses.""",ds
+000029ab,Green Orb,"""Green Orb""",ds
+00002a00,BENITATE.MCB,"""BENITATE.MCB""",ds
+00002a0d,BENITATE.CGB,"""BENITATE.CGB""",ds
+00002a28,Pattergen,"""Pattergen""",ds
+00002a32,"The female form of the Pattergo, her role is to nurture the others in her group. She may heal herself, and any companions she has at any given time.","""The female form of the\nPattergo, her role is\nto nurture the others in\nher group. She may heal\nherself, and any\ncompanions she has at\nany given time.""",ds
+00002b10,BENITATE.MCB,"""BENITATE.MCB""",ds
+00002b1d,BENITATE.CGB,"""BENITATE.CGB""",ds
+00002b38,Gelata Urchin,"""Gelata Urchin""",ds
+00002b46,"This slow moving hunter makes its home in the mountains. It tracks potential meals and fires spines at its prey. Once its prey is dead or immobilized, it feeds.","""This slow moving hunter\nmakes its home in the\nmountains. It tracks\npotential meals and\nfires spines at its\nprey. Once its prey is\ndead or immobilized, it\nfeeds.""",ds
+00002be7,Spines,"""Spines""",ds
+00002c38,KURAGE.MCB,"""KURAGE.MCB""",ds
+00002c45,KURAGE.CGB,"""KURAGE.CGB""",ds
+00002c60,Magnata Urchin,"""Magnata Urchin""",ds
+00002c6f,A female Urchin. She is able to track her prey and telepathically guide all of her spines in order to inflict a maximum amount of damage. The female of the species is more deadlier than the male.,"""A female Urchin. She is\nable to track her prey\nand telepathically guide\nall of her spines in\norder to inflict a\nmaximum amount of\ndamage. The female of\nthe species is more\ndeadlier than the male.""",ds
+00002d33,Spines,"""Spines""",ds
+00002d3a,Magna Spines,"""Magna Spines""",ds
+00002d8e,mPKURAGE.MCB,"""mPKURAGE.MCB""",ds
+00002d9d,KURAGE.CGB,"""KURAGE.CGB""",ds
+00002db8,Baldor,"""Baldor""",ds
+00002dbf,"Baldor live in rocky regions. Hunting in pairs, they use their spines to weaken prey and their powerful jaws to finish them off. Baldor are defenseless from behind.","""Baldor live in rocky\nregions. Hunting in\npairs, they use their\nspines to weaken prey\nand their powerful jaws\nto finish them off.\nBaldor are defenseless\nfrom behind.""",ds
+00002e64,Spinal Arrows,"""Spinal Arrows""",ds
+00002e72,Terrible Bite,"""Terrible Bite""",ds
+00002ec8,HEBIMUSI.MCB,"""HEBIMUSI.MCB""",ds
+00002ed5,HEBIMUSI.CGB,"""HEBIMUSI.CGB""",ds
+00002ef0,Baldor Queen,"""Baldor Queen""",ds
+00002efd,For every hundred Baldor exists one dominant female. She secretes a resin that hardens and allows her to suspend herself above canyons. Her only purpose is to make little Baldor. She uses acid as a defense.,"""For every hundred Baldor\nexists one dominant\nfemale. She secretes a\nresin that hardens and\nallows her to suspend\nherself above canyons.\nHer only purpose is to\nmake little Baldor. She\nuses acid as a defense.""",ds
+00002fcc,Acid Spray,"""Acid Spray""",ds
+00003048,Arachnoth,"""Arachnoth""",ds
+00003052,"The most dangerous creature in the valleys. It is heavily armored, and easily angered. It fights with barbed tentacles and digestive slime. This brute's only weakness is its lack of intelligence.","""The most dangerous\ncreature in the valleys.\nIt is heavily armored,\nand easily angered. It\nfights with barbed\ntentacles and digestive\nslime. This brute's only\nweakness is its lack of\nintelligence.""",ds
+00003116,Digestive Fluid,"""Digestive Fluid""",ds
+00003126,Tentacles,"""Tentacles""",ds
+00003130,Charge,"""Charge""",ds
+00003137,Devour,"""Devour""",ds
+000031a5,BEMOS.CGB,"""BEMOS.CGB""",ds
+000031c6,"Nanyds inhabit the Garil desert. Fairly harmless alone, these creatures will travel in swarms of 10-30. They often stay close to larger predators, and scavenge the remains of their kills.","""Nanyds inhabit the Garil\ndesert. Fairly harmless\nalone, these creatures\nwill travel in swarms of\n10-30. They often stay\nclose to larger\npredators, and scavenge\nthe remains of their\nkills.""",ds
+00003282,Swarm,"""Swarm""",ds
+00003288,Spine Swarm,"""Spine Swarm""",ds
+00003304,Nanyd Queen,"""Nanyd Queen""",ds
+00003310,"Most swarms are led by a queen. The swarm will fight to the death to defend its queen. If the queen is killed, the swarm is overwhelmed by chaotic tendencies. The survivors will scatter and join another swarm.","""Most swarms are led by a\nqueen. The swarm will\nfight to the death to\ndefend its queen. If the\nqueen is killed, the\nswarm is overwhelmed by\nchaotic tendencies. The\nsurvivors will scatter\nand join another swarm.""",ds
+000033e2,Swarm,"""Swarm""",ds
+000033e8,Spine Swarm,"""Spine Swarm""",ds
+00003464,Stryder,"""Stryder""",ds
+0000346c,"These pack hunters roam the desert in search of fresh meat. They are very dangerous if you encounter them on the ground, but they are vulnerable from the air. Stryders may have invaded Cainus.","""These pack hunters roam\nthe desert in search of\nfresh meat. They are\nvery dangerous if you\nencounter them on the\nground, but they are\nvulnerable from the air.\nStryders may have\ninvaded Cainus.""",ds
+0000352d,Crimson Sphere,"""Crimson Sphere""",ds
+000035ac,"Stryder, Hunter","""Stryder, Hunter""",ds
+000035bc,Stryder Hunters have large horns and can paralyze their prey. Their strong jaws are ideal for tearing flesh. Their favorite food is the Coolia.,"""Stryder Hunters have\nlarge horns and can\nparalyze their prey.\nTheir strong jaws are\nideal for tearing flesh.\nTheir favorite food is\nthe Coolia.""",ds
+0000364c,Paralyzing Shard,"""Paralyzing Shard""",ds
+000036d0,Hopper,"""Hopper""",ds
+000036d7,"The large petals detect small creatures under the sand. Hoppers spray digestive fluid on these creatures. Because they focus their attention on the ground, Hoppers are vulnerable from behind.","""The large petals detect\nsmall creatures under\nthe sand. Hoppers\nspray digestive fluid\non these creatures.\nBecause they focus their\nattention on the ground,\nHoppers are vulnerable\nfrom behind.""",ds
+00003797,Gastric Bile,"""Gastric Bile""",ds
+00003814,Pludger,"""Pludger""",ds
+0000381c,"The Pludger got its name from the 'Pludge' sound it makes when it spits acid. They are messy eaters, so they often employ Nanyds to clean up after them.","""The Pludger got its name\nfrom the 'Pludge' sound\nit makes when it spits\nacid. They are messy\neaters, so they often\nemploy Nanyds to clean\nup after them.""",ds
+000038ba,Pludger,"""Pludger""",ds
+00003934,Sand Mite,"""Sand Mite""",ds
+0000393e,Sand Mites are parasites that feed off of Worms. They infest the underground tunnels and drive the Worms from their burrows. They were discovered by a hunter named Underwood.,"""Sand Mites are parasites\nthat feed off of Worms.\nThey infest the\nunderground tunnels and\ndrive the Worms from\ntheir burrows. They\nwere discovered by a\nhunter named Underwood.""",ds
+000039ed,Blue Globe,"""Blue Globe""",ds
+000039f8,Blue Orb,"""Blue Orb""",ds
+00003a54,PGORAIAS.MCB,"""PGORAIAS.MCB""",ds
+00003a61,PGORAIAS.CGB,"""PGORAIAS.CGB""",ds
+00003a82,"The Kolba are peaceful, but extremely paranoid creatures. They will assume anything invading their space is a predator and will attack. Their bodies are covered with markings that resemble eyes.","""The Kolba are peaceful,\nbut extremely paranoid\ncreatures. They will\nassume anything invading\ntheir space is a\npredator and will\nattack. Their bodies are\ncovered with markings\nthat resemble eyes.""",ds
+00003b45,Laser Rain,"""Laser Rain""",ds
+00003bc0,Lathum,"""Lathum""",ds
+00003bc7,"An enormous mountain of slime and steam, the Lathum lurks under the sand and feeds on unsuspecting worms. If its weakness is exposed, it can be destroyed.","""An enormous mountain of\nslime and steam, the\nLathum lurks under the\nsand and feeds on\nunsuspecting worms. If\nits weakness is exposed,\nit can be destroyed.""",ds
+00003c62,Heat Breath,"""Heat Breath""",ds
+00003c6e,Scalding Breath,"""Scalding Breath""",ds
+00003cf0,Gigralyph,"""Gigralyph""",ds
+00003cfa,"Gigralyphs are intelligent creatures that can combine with their kin, the Gigra. Once combined, the Gigralyph can control the physical properties of its hulking cousin. Alone and unprovoked, Gigralyphs are peaceful.","""Gigralyphs are\nintelligent creatures\nthat can combine with\ntheir kin, the Gigra.\nOnce combined, the\nGigralyph can control\nthe physical properties\nof its hulking cousin.\nAlone and unprovoked,\nGigralyphs are peaceful.""",ds
+00003e44,Gigra,"""Gigra""",ds
+00003e4a,"Gigra are subterranean hulks that hibernate until summoned by a Gigralyph. When they combine, they are able to change shape in order to seek food.","""Gigra are subterranean\nhulks that hibernate\nuntil summoned by a\nGigralyph. When they\ncombine, they are able\nto change shape in order\nto seek food.""",ds
+00003edd,Parasites,"""Parasites""",ds
+00003ee7,Cave-In,"""Cave-In""",ds
+00003f60,Hunter Gigra,"""Hunter Gigra""",ds
+00003f6d,"The Gigra assume this shape when they stalk their victims. They attack with missile weapons, and will relentlessly pursue a potential meal.","""The Gigra assume this\nshape when they stalk\ntheir victims. They\nattack with missile\nweapons, and will\nrelentlessly pursue a\npotential meal.""",ds
+00003ff9,Spears,"""Spears""",ds
+00004000,Cave-In,"""Cave-In""",ds
+00004078,Fighter Gigra,"""Fighter Gigra""",ds
+00004086,"When a Gigra feels that it has met a formidable opponent, it assumes this form. It has offensive and defensive capabilities. The Gigra retain this form throughout mating season.","""When a Gigra feels that\nit has met a formidable\nopponent, it assumes\nthis form. It has\noffensive and defensive\ncapabilities.\nThe Gigra retain this\nform throughout mating\nseason.""",ds
+00004138,Parasites,"""Parasites""",ds
+00004142,Spears,"""Spears""",ds
+00004149,Rain of Spears,"""Rain of Spears""",ds
+000041d0,Swift Gigra,"""Swift Gigra""",ds
+000041dc,"If a Gigra loses a battle, it morphs into a swift flying creature in a desperate attempt to escape. If Gigras fight each other, the loser will be killed unless it leaves the area.","""If a Gigra loses a\nbattle, it morphs into\na swift flying creature\nin a desperate attempt\nto escape. If Gigras\nfight each other, the\nloser will be killed\nunless it leaves the\narea.""",ds
+00004290,Spears,"""Spears""",ds
+00004297,Rain of Spears,"""Rain of Spears""",ds
+00004318,Lumid,"""Lumid""",ds
+0000431e,"Lumids are closely related to Nanyds, but have adapted to live near water. Lumids are not scavengers like their kin. Instead, they hunt creatures that swim too close to the surface of the water.","""Lumids are closely\nrelated to Nanyds, but\nhave adapted to live\nnear water. Lumids are\nnot scavengers like\ntheir kin. Instead, they\nhunt creatures that swim\ntoo close to the surface\nof the water.""",ds
+000043e1,Spine,"""Spine""",ds
+000043e7,Spine Storm,"""Spine Storm""",ds
+00004464,Lumid Queen,"""Lumid Queen""",ds
+00004470,"Aside from their predatorial behavior, Lumid swarm hierarchy and behavior patterns are identical to their Nanyd kin.","""Aside from their\npredatorial behavior,\nLumid swarm hierarchy\nand behavior patterns\nare identical to their\nNanyd kin.""",ds
+000044e5,Spine,"""Spine""",ds
+000044eb,Spine Storm,"""Spine Storm""",ds
+00004568,Neo-Stryder,"""Neo-Stryder""",ds
+00004574,These predators of the waterways are a hybrid cross between Stryders and Lazara. Their DNA was fused by one of the weapons from the Ancient Age. Their behavior patterns are similar to Stryders.,"""These predators of the\nwaterways are a hybrid\ncross between Stryders\nand Lazara. Their DNA\nwas fused by one of the\nweapons from the\nAncient Age. Their\nbehavior patterns are\nsimilar to Stryders.""",ds
+00004636,Solution,"""Solution""",ds
+000046b0,Neo-Stalker,"""Neo-Stalker""",ds
+000046bc,"In all Stryder hunting packs, there are dominant creatures that herd the prey toward their doom. The horn of the Neo-Stalker gives it additional powers and the advantage it needs to herd their prey.","""In all Stryder hunting\npacks, there are\ndominant creatures that\nherd the prey toward\ntheir doom. The horn of\nthe Neo-Stalker gives it\nadditional powers and\nthe advantage it needs\nto herd their prey.""",ds
+00004783,Paralysis,"""Paralysis""",ds
+00004800,Small Egg,"""Small Egg""",ds
+0000480a,"Found in the abandoned lab in Uru, these eggs will remain in a dormant state until disturbed. When they hatch, they release Mutant Hoppers.","""Found in the abandoned\nlab in Uru, these eggs\nwill remain in a dormant\nstate until disturbed.\nWhen they hatch, they\nrelease Mutant\nHoppers.""",ds
+00004908,Large Egg,"""Large Egg""",ds
+00004912,"Much like the Small Eggs, the Large Eggs will remain in a dormant state. If the nest is disturbed, it will hatch and release a Lucich into the world.","""Much like the Small\nEggs, the Large Eggs\nwill remain in a dormant\nstate. If the nest is\ndisturbed, it will hatch\nand release a Lucich\ninto the world.""",ds
+00004a18,Mutant Hopper,"""Mutant Hopper""",ds
+00004a26,"Because of the limited resources found in the underground lab of Uru, there is a constant struggle for survival. The mutants wage war in ferocious packs in their battle to feed on energy.","""Because of the limited\nresources found in the\nunderground lab of Uru,\nthere is a constant\nstruggle for survival.\nThe mutants wage war in\nferocious packs in their\nbattle to feed on\nenergy.""",ds
+00004ae2,Chomp,"""Chomp""",ds
+00004b58,Lucich,"""Lucich""",ds
+00004b5f,"Stronger than the Mutant Hoppers, packs of Luciches are also caught in the subterranean struggle. They will feed on everything they encounter. It is believed that Luciches are cannibals.","""Stronger than the Mutant\nHoppers, packs of\nLuciches are also caught\nin the subterranean\nstruggle. They will\nfeed on everything they\nencounter. It is\nbelieved that Luciches\nare cannibals.""",ds
+00004c1a,Chomp,"""Chomp""",ds
+00004c90,Mutant Flier,"""Mutant Flier""",ds
+00004c9d,"Mutant Fliers are an advanced form of the Mutant Hopper. If fed energy, the Hopper will sprout wings. They are always hungry, and will attack anything that may be food.","""Mutant Fliers are an\nadvanced form of the\nMutant Hopper. If fed\nenergy, the Hopper will\nsprout wings. They are\nalways hungry, and will\nattack anything that\nmay be food.""",ds
+00004d46,Chomp,"""Chomp""",ds
+00004dbc,Winged Lucich,"""Winged Lucich""",ds
+00004dca,"A Winged Lucich is one of the most feared creatures of the underground ruins. They travel in packs, but have been known to turn on their allies when they cannot control their hunger.","""A Winged Lucich is one\nof the most feared\ncreatures of the\nunderground ruins.\nThey travel in packs,\nbut have been known\nto turn on their\nallies when they cannot\ncontrol their hunger.""",ds
+00004e81,Chomp,"""Chomp""",ds
+00004ef8,Slime Feeder,"""Slime Feeder""",ds
+00004f05,The Slime Feeder is a docile creature that scavenges the lab for chemicals or energy. They use one sharp long tooth to crack open pods and extract fluids. They are often accompanied by freeloading mutants.,"""The Slime Feeder is a\ndocile creature that\nscavenges the lab for\nchemicals or energy.\nThey use one sharp long\ntooth to crack open pods\nand extract fluids. They\nare often accompanied\nby freeloading mutants.""",ds
+00004fd3,Adhesive Fluid,"""Adhesive Fluid""",ds
+00005054,Dracolyth,"""Dracolyth""",ds
+0000505e,"Flocks of Dracolyths are in a constant state of migration. Once they reach a breeding ground, they transform into ferocious dragons. No sightings of mature Dracolyths have ever been recorded.","""Flocks of Dracolyths\nare in a constant state\nof migration. Once they\nreach a breeding ground,\nthey transform into\nferocious dragons. No\nsightings of mature\nDracolyths have ever\nbeen recorded.""",ds
+0000511e,Chaotic Blast,"""Chaotic Blast""",ds
+0000512c,Berserk Blast,"""Berserk Blast""",ds
+0000518b,DKHDRAGON.MCB,"""DKHDRAGON.MCB""",ds
+00005199,KHDRAGON.CGB,"""KHDRAGON.CGB""",ds
+000051b4,Absorbora,"""Absorbora""",ds
+000051be,"Absorbora begin as bulbs that sprout out of an Energ's Web. They're a combination of plant and animal. They cannot feed, and redirect all energy that they encounter. It is believed that their life span is short.","""Absorbora begin as bulbs\nthat sprout out of an\nEnerg's Web. They're a\ncombination of plant\nand animal. They cannot\nfeed, and redirect all\nenergy that they\nencounter. It is\nbelieved that their life\nspan is short.""",ds
+00005292,Discharge,"""Discharge""",ds
+000052e4,TAMPRO.MCB,"""TAMPRO.MCB""",ds
+000052f1,TAMPRO.CGB,"""TAMPRO.CGB""",ds
+0000530c,Energ,"""Energ""",ds
+00005312,"Spider-like in appearance, these creatures secrete an energy feeding slime that has the ability to sprout Absorboras. They will feed on all types of power. Alone, they are not a threat, but they do have allies.","""Spider-like in\nappearance, these\ncreatures secrete an\nenergy feeding slime\nthat has the ability to\nsprout Absorboras. They\nwill feed on all types\nof power. Alone, they\nare not a threat, but\nthey do have allies.""",ds
+000053e5,Bomb Drop,"""Bomb Drop""",ds
+00005460,Basilus,"""Basilus""",ds
+00005468,"An ally of the Energ, this creature defends Energs in exchange for energy. It is ferocious, and should be avoided at all costs.","""An ally of the Energ,\nthis creature defends\nEnergs in exchange for\nenergy. It is ferocious,\nand should be avoided\nat all costs.""",ds
+000054e8,Column of Water,"""Column of Water""",ds
+000054f8,Solution,"""Solution""",ds
+00005501,Shell Arm,"""Shell Arm""",ds
+0000550b,Crash,"""Crash""",ds
+0000559c,Absorborac,"""Absorborac""",ds
+000055a7,"Absorborac are Absorbora at an advanced stage. They have displayed intelligence patterns, and will attack all intruders with a type of plasma bomb.","""Absorborac are Absorbora\nat an advanced stage.\nThey have displayed\nintelligence patterns,\nand will attack all\nintruders with a type\nof plasma bomb.""",ds
+0000563b,Discharge,"""Discharge""",ds
+00005645,Explosion,"""Explosion""",ds
+00005697,XTAMPRO.MCB,"""XTAMPRO.MCB""",ds
+000056a5,TAMPRO.CGB,"""TAMPRO.CGB""",ds
+000056c0,Lazara,"""Lazara""",ds
+000056c7,"These Bio-technical terrors were created by the Towers. Traveling in squadrons, their purpose is to eliminate anything the Towers see as a threat to the balance they've created.","""These Bio-technical\nterrors were created\nby the Towers. Traveling\nin squadrons, their\npurpose is to eliminate\nanything the Towers see\nas a threat to the\nbalance they've created.""",ds
+00005779,Laser,"""Laser""",ds
+0000577f,Laser Storm,"""Laser Storm""",ds
+000057fc,Lazara Hunter,"""Lazara Hunter""",ds
+0000580a,"Lazara Hunters are the squadron leaders. They have the ability to raise shields around the entire group. When Lazara attack, they attack as a team.","""Lazara Hunters are the\nsquadron leaders. They\nhave the ability to\nraise shields around the\nentire group. When\nLazara attack, they\nattack as a team.""",ds
+0000589e,Laser,"""Laser""",ds
+000058a4,Laser Storm,"""Laser Storm""",ds
+00005920,Lazara Hammer,"""Lazara Hammer""",ds
+0000592e,The Lazara Hammers are responsible for patrolling the seas. They also serve as the Towers' defense system. They have the ability to travel above and below the water.,"""The Lazara Hammers are\nresponsible for\npatrolling the seas.\nThey also serve as the\nTowers' defense system.\nThey have the ability to\ntravel above and below\nthe water.""",ds
+000059d4,Energy Stream,"""Energy Stream""",ds
+000059e2,Ray Blast,"""Ray Blast""",ds
+00005a5c,Lazara Skimmer,"""Lazara Skimmer""",ds
+00005a6b,"The leaders of the water squadrons, they help coordinate the attacks of their groups. It is unknown whether they control their own actions, or if they are simply pawns of the Towers.","""The leaders of the\nwater squadrons, they\nhelp coordinate the\nattacks of their groups.\nIt is unknown whether\nthey control their own\nactions, or if they are\nsimply pawns of the\nTowers.""",ds
+00005b22,Energy Stream,"""Energy Stream""",ds
+00005b30,Ray Blast,"""Ray Blast""",ds
+00005bac,Hellion,"""Hellion""",ds
+00005bb4,"Hellions patrol the Forbidden Zone. They possess a meteor-like attack that always hits its target. Because they were created by the Towers, they do not need to eat or sleep.","""Hellions patrol the\nForbidden Zone. They\npossess a meteor-like\nattack that always\nhits its target.\nBecause they were\ncreated by the Towers,\nthey do not need to eat\nor sleep.""",ds
+00005c62,Stone Slasher,"""Stone Slasher""",ds
+00005ce0,Atolm Dragon,"""Atolm Dragon""",ds
+00005ced,"Atolm is a Guardian of the Ancient Age. His appearance strikes fear into the hearts of the most hardened warriors. At this point, he does not seem to have fully recovered from his long slumber.","""Atolm is a Guardian of\nthe Ancient Age. His\nappearance strikes\nfear into the hearts\nof the most hardened\nwarriors. At this point,\nhe does not seem to have\nfully recovered from his\nlong slumber.""",ds
+00005daf,Laser,"""Laser""",ds
+00005dba,Berserker Rage,"""Berserker Rage""",ds
+00005e44,Guardian Dragon,"""Guardian Dragon""",ds
+00005e54,"A ghost of the past, this ancient horror has risen again to serve the Towers. It is believed that this monster can never truly die.","""A ghost of the past,\nthis ancient horror has\nrisen again to serve\nthe Towers. It is\nbelieved that this\nmonster can never\ntruly die.""",ds
+00005ed8,Laser,"""Laser""",ds
+00005ede,Light Particle Charged,"""Light\nParticle Charged""",ds
+00005ef5,Tail Uppercut,"""Tail Uppercut""",ds
+00005f03,Berserk Laser,"""Berserk Laser""",ds
+00005f94,Drenholm,"""Drenholm""",ds
+00005f9d,A Guardian of Uru. Drenholm hovers above the water and harnesses energy from the skies to unleash devastating attacks on all that disturb the serenity of Uru.,"""A Guardian of Uru.\nDrenholm hovers above\nthe water and harnesses\nenergy from the skies\nto unleash devastating\nattacks on all that\ndisturb the serenity\nof Uru.""",ds
+0000603c,Thunderstorm,"""Thunderstorm""",ds
+00006049,Eye Beam,"""Eye Beam""",ds
+00006052,Thunderstrike,"""Thunderstrike""",ds
+000060c5,NULLY.CGB,"""NULLY.CGB""",ds
+000060e0,"Atolm, Orbs","""Atolm, Orbs""",ds
+000060ec,"Atolm is escorted by two pairs of Orbs. One pair is responsible for regeneration, while the other focuses on attacking. Atolm still retains all of his normal powers.","""Atolm is escorted by\ntwo pairs of Orbs. One\npair is responsible for\nregeneration, while the\nother focuses on\nattacking. Atolm still\nretains all of his\nnormal powers.""",ds
+00006192,Laser,"""Laser""",ds
+0000619d,Berserker Rage,"""Berserker Rage""",ds
+000061ac,Lightning Storm,"""Lightning Storm""",ds
+0000623c,Scavenger,"""Scavenger""",ds
+00006246,Scavengers are assigned to defend Mel-Kava. They are known for their speed and their aggressive tendencies. They will attack anything that invades their air space.,"""Scavengers are assigned\nto defend Mel-Kava. They\nare known for their\nspeed and their\naggressive tendencies.\nThey will attack\nanything that invades\ntheir air space.""",ds
+000062ea,Laser,"""Laser""",ds
+00006360,Glide Dragon,"""Glide Dragon""",ds
+0000636d,"Glide Dragons are mass- produced by the Towers whenever the Towers' artificial ecosystems become imbalanced. Once summoned, they will attack anything until they are destroyed.","""Glide Dragons are mass-\nproduced by the Towers\nwhenever the Towers'\nartificial ecosystems\nbecome imbalanced.\nOnce summoned, they will\nattack anything until\nthey are destroyed.""",ds
+0000641d,Bio Plasma,"""Bio Plasma""",ds
+00006428,Bio Energy,"""Bio Energy""",ds
+0000647b,<MPDRAGON.MCB,"""<MPDRAGON.MCB""",ds
+00006489,MPDRAGON.CGB,"""MPDRAGON.CGB""",ds
+000064a4,Drone,"""Drone""",ds
+000064aa,"Working in pairs, these Drones are able to repel attacks from all directions. They will attack if they are provoked. Their primary purpose is to defend Mel-Kava from long range laser attacks.","""Working in pairs, these\nDrones are able to\nrepel attacks from all\ndirections. They will\nattack if they are\nprovoked. Their primary\npurpose is to defend\nMel-Kava from long\nrange laser attacks.""",ds
+0000656a,Energy Stream,"""Energy Stream""",ds
+00006578,Deflect,"""Deflect""",ds
+000065dd,TAROJIRO.CGB,"""TAROJIRO.CGB""",ds
+000065f8,Protodrone,"""Protodrone""",ds
+00006603,"Protodrones are the prototypes of a second model of Drone. Fortunately, the ancient wars ended before more of these models were created.","""Protodrones are the\nprototypes of a second\nmodel of Drone.\nFortunately, the ancient\nwars ended before more\nof these models were\ncreated.""",ds
+0000668c,Energy Stream,"""Energy Stream""",ds
+0000669a,Reflect,"""Reflect""",ds
+00006701,TAROJIRO.CGB,"""TAROJIRO.CGB""",ds
+0000671c,Photon Cannon,"""Photon Cannon""",ds
+0000672a,"Photon Cannons are organic mechanisms that grow inside Mel-Kava. They can harness Mel- Kava's internal energy and focus it on invaders. They act like living guns, rather than thinking creatures.","""Photon Cannons are\norganic mechanisms that\ngrow inside Mel-Kava.\nThey can harness Mel-\nKava's internal energy\nand focus it on\ninvaders. They act like\nliving guns, rather than\nthinking creatures.""",ds
+000067ed,Photon Blast,"""Photon Blast""",ds
+00006844,BARISTA.MCB,"""BARISTA.MCB""",ds
+00006851,BARISTA.CGB,"""BARISTA.CGB""",ds
+0000686c,Plasma Spider,"""Plasma Spider""",ds
+0000687a,Plasma Spiders roam the corridors of Mel-Kava. Their purpose is to regulate and repair all irregularities in Mel-Kava's operating systems. They can generate and discharge plasma.,"""Plasma Spiders roam the\ncorridors of Mel-Kava.\nTheir purpose is to\nregulate and repair all\nirregularities in\nMel-Kava's operating\nsystems. They can\ngenerate and discharge\nplasma.""",ds
+0000692d,Incandescent Light,"""Incandescent\n Light""",ds
+000069bc,Reactor,"""Reactor""",ds
+000069c4,"Mel-Kava's Reactor is a source of power for Mel-Kava. It does have artificial intelligence, and will adapt to all situations.","""Mel-Kava's Reactor is\na source of power for\nMel-Kava. It does have\nartificial intelligence,\nand will adapt to all\nsituations.""",ds
+00006a42,Light Particle Laser,"""Light\n Particle Laser""",ds
+00006a59,Status Clear,"""Status Clear""",ds
+00006a66,Purifier 002,"""Purifier 002""",ds
+00006a73,Purifier 001,"""Purifier 001""",ds
+00006a80,Purifier 000,"""Purifier 000""",ds
+00006afd,CORE.CGB,"""CORE.CGB""",ds
+00006b18,"Atolm, Ancient","""Atolm, Ancient""",ds
+00006b27,"Atolm has found the ancient weapon he used in the past. It is a weightless mass of laser cannons, capable of destroying an entire region with a single blast.","""Atolm has found the\nancient weapon he used\nin the past. It is a\nweightless mass of\nlaser cannons, capable\nof destroying an entire\nregion with a single\nblast.""",ds
+00006bc5,Laser,"""Laser""",ds
+00006bcb,Prism Trap,"""Prism Trap""",ds
+00006bd6,Status Clear,"""Status Clear""",ds
+00006c5c,"Atolm, Orbs II","""Atolm, Orbs II""",ds
+00006c6b,"Once Atolm reaches full strength, he gains the ability to summon his dreadful orbs at will. If his weakness is not exploited, he is all but invincible.","""Once Atolm reaches full\nstrength, he gains the\nability to summon his\ndreadful orbs at will.\nIf his weakness is not\nexploited, he is all but\ninvincible.""",ds
+00006d03,Laser,"""Laser""",ds
+00006d0e,Berserker Rage,"""Berserker Rage""",ds
+00006d1d,Lightning Storm,"""Lightning Storm""",ds
+00006d2d,Hell Storm,"""Hell Storm""",ds
+00006dc0,Scorpitara,"""Scorpitara""",ds
+00006dcb,"If an alarm is triggered, Scorpitaras are summoned. They track their prey and release a concentrated blast of energy. After they attack, they immediately teleport back to a recharging station.","""If an alarm is\ntriggered, Scorpitaras\nare summoned. They\ntrack their prey and\nrelease a concentrated\nblast of energy. After\nthey attack, they\nimmediately teleport\nback to a recharging\nstation.""",ds
+00006e8c,Gravity Orb,"""Gravity Orb""",ds
+00006eed,CADRO.CGB,"""CADRO.CGB""",ds
+00006f08,Golia Hunter,"""Golia Hunter""",ds
+00006f15,"Golia Hunters are predators of the forest. For an ancient battle, the Golia were created. In time, it appears that the Golia have adapted to hunt in forests. They were created to hunt, but they do not eat.","""Golia Hunters are\npredators of the forest.\nFor an ancient battle,\nthe Golia were created.\nIn time, it appears that\nthe Golia have adapted\nto hunt in forests. They\nwere created to hunt,\nbut they do not eat.""",ds
+00006fe3,Light Wave,"""Light Wave""",ds
+00006fee,Bio Plasma,"""Bio Plasma""",ds
+00007044,SURFHANU.MCB,"""SURFHANU.MCB""",ds
+00007051,SURFHANU.CGB,"""SURFHANU.CGB""",ds
+0000706c,Golia Tracker,"""Golia Tracker""",ds
+0000707a,"Golia Trackers are similar to Golia Hunters, but instead of bounding through the forests, they fly above the trees, and search for victims.","""Golia Trackers are\nsimilar to Golia\nHunters, but instead of\nbounding through the\nforests, they fly above\nthe trees, and search\nfor victims.""",ds
+00007106,Light Wave,"""Light Wave""",ds
+00007111,Bio Plasma,"""Bio Plasma""",ds
+00007163,$ASLTHANU.MCB,"""$ASLTHANU.MCB""",ds
+00007171,ASLTHANU.CGB,"""ASLTHANU.CGB""",ds
+0000718c,Arangata,"""Arangata""",ds
+00007195,"Arangata were released by the Towers to form a tight defense in strategic areas. As long as their ""roots"" are intact, they are indestructible.","""Arangata were released\nby the Towers to form a\ntight defense in\nstrategic areas. As long\nas their \""roots\"" are\nintact, they are\nindestructible.""",ds
+00007224,Tornado,"""Tornado""",ds
+0000722c,Counterattack,"""Counterattack""",ds
+00007299,MASAN.CGB,"""MASAN.CGB""",ds
+000072b4,Infested G.O.,"""Infested G.O.""",ds
+000072c2,"Grig Orig, crawling with energy feeding parasites, lost all control of its weapons and drifted aimlessly, firing in all directions.","""Grig Orig, crawling with\nenergy feeding\nparasites, lost all\ncontrol of its weapons\nand drifted aimlessly,\nfiring in all\ndirections.""",ds
+00007346,Spin Parasite,"""Spin Parasite""",ds
+00007354,Imperial Cannon,"""Imperial Cannon""",ds
+00007364,Status Clear,"""Status Clear""",ds
+00007371,Parasite,"""Parasite""",ds
+00007404,Sentinel,"""Sentinel""",ds
+0000740d,"A Sentinel is one of the Tower's internal defense mechanisms. If any traps are triggered, a Sentinel is summoned to destroy the unwelcome visitor.","""A Sentinel is one of the\nTower's internal\ndefense mechanisms. If\nany traps are triggered,\na Sentinel is summoned\nto destroy the unwelcome\nvisitor.""",ds
+000074a0,Shadow Flare,"""Shadow Flare""",ds
+0000752c,Twin Guardians,"""Twin Guardians""",ds
+0000753b,"A pair of powerful guardians that defend the middle core of the Tower. Their two bodies are either psychically linked, or a single entity controls both bodies.","""A pair of powerful\nguardians that defend\nthe middle core of the\nTower. Their two bodies\nare either psychically\nlinked, or a single\nentity controls both\nbodies.""",ds
+000075db,Twin Blaze,"""Twin Blaze""",ds
+000075e6,Synchronizer,"""Synchronizer""",ds
+000075f3,Anguish,"""Anguish""",ds
+0000764c,IVASIVIA.MCB,"""IVASIVIA.MCB""",ds
+00007659,IVASIVIA.CGB,"""IVASIVIA.CGB""",ds
+00007674,Battle Droid,"""Battle Droid""",ds
+00007681,"The Battle Droid is the ultimate form of the Sentinel. Armed with powerful attacks, its purpose is to defend the Tower from invaders.","""The Battle Droid is the\nultimate form of the\nSentinel. Armed with\npowerful attacks, its\npurpose is to defend\nthe Tower from invaders.""",ds
+00007707,Energy Beams,"""Energy Beams""",ds
+00007714,Status Clear,"""Status Clear""",ds
+00007781,LOLOS.CGB,"""LOLOS.CGB""",ds
+0000779c,Anti-Basic,"""Anti-Basic""",ds
+000077a7,"Created by Sestren, this dragon has the same appearance and attacks as %a1's Basic Form.","""Created by Sestren, this\ndragon has the same\nappearance and attacks\nas %a1's\nBasic Form.""",ds
+00007800,Laser,"""Laser""",ds
+00007878,Anti-Valiant,"""Anti-Valiant""",ds
+00007885,"Created by Sestren, this dragon has the same appearance and attacks as %a1's Valiant Form. It relies mostly on a strong defense.","""Created by Sestren, this\ndragon has the same\nappearance and attacks\nas %a1's\nValiant Form.\nIt relies mostly on\na strong defense.""",ds
+00007906,Laser,"""Laser""",ds
+0000797c,Anti-Stripe,"""Anti-Stripe""",ds
+00007988,"Created by Sestren, this dragon has the same appearance and attacks as %a1's Stripe Form. It fights primarily with lasers.","""Created by Sestren, this\ndragon has the same\nappearance and attacks\nas %a1's\nStripe Form.\nIt fights primarily\nwith lasers.""",ds
+00007a03,Laser,"""Laser""",ds
+00007a7c,Anti-Panzer,"""Anti-Panzer""",ds
+00007a88,"Created by Sestren, this dragon has the same appearance and attacks as %a1's Panzer Form. The fastest of the evil dragons, it attacks relentlessly.","""Created by Sestren, this\ndragon has the same\nappearance and attacks\nas %a1's\nPanzer Form.\nThe fastest of the\nevil dragons, it\nattacks relentlessly.""",ds
+00007b1c,Laser,"""Laser""",ds
+00007b22,Blade Storm,"""Blade Storm""",ds
+00007ba8,Anti-Eye,"""Anti-Eye""",ds
+00007bb1,"Created by Sestren, this dragon has the same appearance and attacks as %a1's Eye Form. It's offense consists of powerful magic spells.","""Created by Sestren, this\ndragon has the same\nappearance and attacks\nas %a1's\nEye Form. It's offense\nconsists of powerful\nmagic spells.""",ds
+00007c38,Armageddon,"""Armageddon""",ds
+00007c43,Blade Storm,"""Blade Storm""",ds
+00007c4f,Plasma Swarm,"""Plasma Swarm""",ds
+00007c5c,Berserker Rage,"""Berserker Rage""",ds
+00007cf4,Sestren,"""Sestren""",ds
+00007cfc,Sestren is the almighty being that links all of the Towers. His embryonic appearance fools opponents into lowering their defenses.,"""Sestren is the almighty\nbeing that links all of\nthe Towers. His\nembryonic appearance\nfools opponents into\nlowering their defenses.""",ds
+00007df0,Sestren Morphic,"""Sestren Morphic""",ds
+00007e00,"Sestren is able to morph itself into several different forms. In this later stage, Sestren is deadly.","""Sestren is able to\nmorph itself into\nseveral different forms.\nIn this later stage,\nSestren is deadly.""",ds
+00007e66,Laser,"""Laser""",ds
+00007e6c,Through The Heart1,"""Through The\n Heart1""",ds
+00007e85,Through The Heart2,"""Through The \n Heart2""",ds
+00007ef0,ANTIDRAG.MCB,"""ANTIDRAG.MCB""",ds
+00007efd,ANTIDRAG.CGB,"""ANTIDRAG.CGB""",ds
+00007f18,Sestren Exsis,"""Sestren Exsis""",ds
+00007f26,"Few have seen Sestren Exsis in visions and dreams, but only one has encountered it. It has the ability to hurl objects from the past and present from an infinite abyss.","""Few have seen Sestren\nExsis in visions and\ndreams, but only one\nhas encountered it.\nIt has the ability to\nhurl objects from the\npast and present from\nan infinite abyss.""",ds
+00007fcf,Psychic Bolt,"""Psychic Bolt""",ds
+00007fdc,Consciousness Fusion,"""Consciousness\n Fusion""",ds
+00008050,ANTIDRAG.MCB,"""ANTIDRAG.MCB""",ds
+0000805d,ANTIDRAG.CGB,"""ANTIDRAG.CGB""",ds
+00008078,Punisher,"""Punisher""",ds
+00008081,"This airship's primary purpose is to carry explosive projectiles and launch them at anything that stands in its way. It carries six air to air Homing Mines, also known as Gravediggers.","""This airship's primary\npurpose is to carry\nexplosive projectiles\nand launch them at\nanything that stands in\nits way. It carries\nsix air to air Homing\nMines, also known as\nGravediggers.""",ds
+0000813a,Tracers,"""Tracers""",ds
+00008142,Homing Mines,"""Homing Mines""",ds
+000081c0,Flagship,"""Flagship""",ds
+000081c9,"Craymen's Flagship is armed with Tracer Cannons, Sub-Cannons, and Homing Mines. It is designed for air to air combat.","""Craymen's Flagship is\narmed with Tracer\nCannons, Sub-Cannons,\nand Homing Mines. It\nis designed for air to\nair combat.""",ds
+0000823f,Tracers,"""Tracers""",ds
+00008247,Homing Mine,"""Homing Mine""",ds
+00008253,Sub Cannon,"""Sub Cannon""",ds
+000082d8,Rogue,"""Rogue""",ds
+000082de,These small craft fight in small squadrons. They are fast and are especially adept at strafing air as well as ground targets.,"""These small craft fight\nin small squadrons. They\nare fast and are\nespecially adept at\nstrafing air as well\nas ground targets.""",ds
+0000835c,Aerial Blitz,"""Aerial Blitz""",ds
+00008369,Tracers,"""Tracers""",ds
+000083ec,Inferno,"""Inferno""",ds
+000083f4,"Inferno units are powerful one-man crafts that mix chemicals to create a sticky molten substance. They are heavily armored in front, but fairly defenseless from behind.","""Inferno units are\npowerful one-man crafts\nthat mix chemicals to\ncreate a sticky molten\nsubstance. They are\nheavily armored in\nfront, but fairly\ndefenseless from behind.""",ds
+0000849d,Inferno Blast,"""Inferno Blast""",ds
+000084f4,URUFIRE.MCB,"""URUFIRE.MCB""",ds
+00008501,URUFIRE.CGB,"""URUFIRE.CGB""",ds
+0000851c,Annihilator,"""Annihilator""",ds
+00008528,"Armed with a rotating cannon affectionately called the Reaper, the Annihilator is a formidable foe. It also carries chemical weaponry to defend itself from organic attackers.","""Armed with a rotating\ncannon affectionately\ncalled the Reaper,\nthe Annihilator is a\nformidable foe. It also\ncarries chemical\nweaponry to defend\nitself from organic\nattackers.""",ds
+000085d7,Reaper,"""Reaper""",ds
+000085de,Plague Rockets,"""Plague Rockets""",ds
+00008668,Spectre,"""Spectre""",ds
+00008670,"Zastava's Attack Ship. It is named Spectre because of its stealth and speed. Zastava may be psychotic, but he is Craymen's best pilot. He can dodge virtually any missile attack.","""Zastava's Attack Ship.\nIt is named Spectre\nbecause of its stealth\nand speed. Zastava may\nbe psychotic, but he is\nCraymen's best pilot.\nHe can dodge virtually\nany missile attack.""",ds
+00008722,Blasters,"""Blasters""",ds
+0000879c,Gunship,"""Gunship""",ds
+000087a4,"A Gunship is the standard military craft of the Empire. It is usually assigned to travel in groups and shoot down small enemies. It is armed with tracers, but carries no large weapons.","""A Gunship is\nthe standard military\ncraft of the Empire.\nIt is usually assigned\nto travel in groups\nand shoot down small\nenemies. It is armed\nwith tracers, but\ncarries no large\nweapons.""",ds
+0000885d,Tracers,"""Tracers""",ds
+00008865,Ion Blasters,"""Ion Blasters""",ds
+000088e4,Instigator,"""Instigator""",ds
+000088ef,A small scout ship that travels in groups. Their purpose is to patrol an area and alert military vessels of intruders.,"""A small scout ship that\ntravels in groups. Their\npurpose is to patrol an\narea and alert military\nvessels of intruders.""",ds
+000089d8,Missile Cruiser,"""Missile Cruiser""",ds
+000089e8,A Missile Cruiser is a slow ship that carries five missiles that can be aimed at air or land targets. This ship's primary purpose is to eradicate land targets.,"""A Missile Cruiser is\na slow ship that carries\nfive missiles that can\nbe aimed at air or land\ntargets. This ship's\nprimary purpose is\nto eradicate land\ntargets. """,ds
+00008a89,Launch Missiles,"""Launch Missiles""",ds
+00008b0c,Plasma Cannon,"""Plasma Cannon""",ds
+00008b1a,Plasma Cannons are used in the perimeters of Imperial Bases. They travel on rails and shoot down anything that invades their airspace.,"""Plasma Cannons are\nused in the perimeters\nof Imperial Bases. They\ntravel on rails and\nshoot down anything that\ninvades their airspace.""",ds
+00008ba1,Anti-Aircraft Cannon,"""Anti-Aircraft\n Cannon""",ds
+00008c15,HANSA.CGB,"""HANSA.CGB""",ds
+00008c30,Enforcer,"""Enforcer""",ds
+00008c39,The Enforcer Class ship is a more powerful version of the Gunship. They carry a variety of weapons and usually take care of the Empire's dirty work.,"""The Enforcer Class ship\nis a more powerful\nversion of the Gunship.\nThey carry a variety of\nweapons and usually take\ncare of the Empire's\ndirty work.""",ds
+00008cce,Tracers,"""Tracers""",ds
+00008cd6,Ion Blasters,"""Ion Blasters""",ds
+00008ce3,Stun Rocket,"""Stun Rocket""",ds
+00008d68,Behemoth,"""Behemoth""",ds
+00008d71,"A gigantic floating fortress armed with a variety of weapons. It is heavily armored, and packs a punch. It is still in its prototype stages.","""A gigantic floating\nfortress armed with a\nvariety of weapons.\nIt is heavily armored,\nand packs a punch. It\nis still in its\nprototype stages.""",ds
+00008dfe,Explosive,"""Explosive""",ds
+00008e08,Plague Rocket,"""Plague Rocket""",ds
+00008e16,Wide Spread Blitz,"""Wide\n Spread Blitz""",ds
+00008e89,VRITRA1.CGB,"""VRITRA1.CGB""",ds
+00008ea4,Deathmaker,"""Deathmaker""",ds
+00008eaf,The Deathmaker is a surface to surface warhead that can level an entire region in the blink of an eye. The warhead is armed with anti-air batteries.,"""The Deathmaker is a\nsurface to surface\nwarhead that can\nlevel an entire region\nin the blink of an eye.\nThe warhead is armed\nwith anti-air batteries.""",ds
+00008f44,Close Range Gun,"""Close Range Gun""",ds
+00008f54,Machine Gun Random Shot,"""Machine Gun\n Random Shot""",ds
+00008fe4,Battle Cruiser,"""Battle Cruiser""",ds
+00008ff3,The Battle Cruiser is the most feared of the Empire's armada. It is armed with the most powerful weapons and can destroy targets in the air and on land.,"""The Battle Cruiser is\nthe most feared of the\nEmpire's armada. It is\narmed with the most\npowerful weapons and\ncan destroy targets in\nthe air and on land.""",ds
+0000908c,Tracers,"""Tracers""",ds
+00009094,Ion Blasters,"""Ion Blasters""",ds
+000090a1,Stun Rocket,"""Stun Rocket""",ds
+00009128,Warship,"""Warship""",ds
+00009130,The Imperial Warship is a formidable opponent. Its odd shape allows it to fly straight up and down. It can land almost anywhere. The Empire uses Warships for ambushes.,"""The Imperial Warship is\na formidable opponent.\nIts odd shape allows it\nto fly straight up and\ndown. It can land almost\nanywhere. The Empire\nuses Warships for\nambushes.""",ds
+000091d8,Tracers,"""Tracers""",ds
+000091e0,Ion Blasters,"""Ion Blasters""",ds
+000091ed,Stun Rocket,"""Stun Rocket""",ds
+00009274,Stinger,"""Stinger""",ds
+0000927c,"Stingers travel in squadrons. They are small, but incredibly fast. They are well suited for hit and run tactics. The Empire uses them to ""soften up"" enemies so the larger ships can finish them.","""Stingers travel in\nsquadrons. They are\nsmall, but incredibly\nfast. They are well\nsuited for hit and run\ntactics. The Empire\nuses them to \""soften up\""\nenemies so the larger\nships can finish them.""",ds
+0000933e,Aerial Blitz,"""Aerial Blitz""",ds
+0000934b,Tracers,"""Tracers""",ds
+000093cc,Punisher,"""Punisher""",ds
+000093d5,"The Imperial Punisher is a deadly foe. It is armed with six aerial torpedoes that can knock most airships out of the sky. If it runs out of torpedoes, it can use tracers to finish its opponents.","""The Imperial Punisher is\na deadly foe. It is\narmed with six aerial\ntorpedoes that can knock\nmost airships out of the\nsky. If it runs out of\ntorpedoes, it can use\ntracers to finish its\nopponents.""",ds
+00009498,Tracers,"""Tracers""",ds
+000094a0,Homing Mines,"""Homing Mines""",ds
+00009520,Grig Orig,"""Grig Orig""",ds
+0000952a,"The Grig Orig is the Emperor's Flagship. It is armed with anti-air batteries, and can destroy a village with a single blast of its cannon. Its name, translated, means IRON FIST.","""The Grig Orig is the\nEmperor's Flagship. It\nis armed with anti-air\nbatteries, and can\ndestroy a village with\na single blast of its\ncannon. Its name,\ntranslated, means\nIRON FIST.""",ds
+000095dc,Tracers,"""Tracers""",ds
+000095e4,Rotating Battery,"""Rotating Battery""",ds
+00009668,Raider,"""Raider""",ds
+0000966f,A Raider is a better armored version of the Stinger. Raiders are flown by the Empire's best pilots.,"""A Raider is a better\narmored version of the\nStinger. Raiders are\nflown by the Empire's\nbest pilots.""",ds
+000096d3,Tracers,"""Tracers""",ds
+000096db,Toxic Gas,"""Toxic Gas""",ds
+0000975d,"Pyro class ships usually escort larger ships. The primary purpose of the Pyros is to ignite enemy ships. While the crews are busy putting out the fires, the large ships destroy them.","""Pyro class ships usually\nescort larger ships. The\nprimary purpose of the\nPyros is to ignite\nenemy ships. While the\ncrews are busy putting\nout the fires, the large\nships destroy them.""",ds
+00009814,Inferno Blast,"""Inferno Blast""",ds
+00009879,FIRE.CGB,"""FIRE.CGB""",ds
+0000989a,Skiffs are designed for maneuverability. They were created to fly close to the ground and engage targets at close range.,"""Skiffs are designed for\nmaneuverability. They\nwere created to fly\nclose to the ground\nand engage targets at\nclose range.""",ds
+00009913,Tracers,"""Tracers""",ds
+0000991b,Nerve Gun,"""Nerve Gun""",ds
+00009925,Plague Rockets,"""Plague Rockets""",ds
+00009983,<LANQUER.MCB,"""<LANQUER.MCB""",ds
+00009991,LANQUER.CGB,"""LANQUER.CGB""",ds
+000099ac,Marauder,"""Marauder""",ds
+000099b5,"Marauders are similar to Skiffs, but they are designed for speed as well as maneuverability.","""Marauders are similar\nto Skiffs, but they are\ndesigned for speed as\nwell as maneuverability.""",ds
+00009a12,Plasma Blaster,"""Plasma Blaster""",ds
+00009a21,Tracers,"""Tracers""",ds
+00009a29,Modified Anti- Monster Rockets,"""Modified Anti-\n Monster Rockets""",ds
+00009ac4,Exterminator,"""Exterminator""",ds
+00009ad1,"The Exterminator is a transport ship that can carry hundreds of troops as well as smaller vessels. It is very well defended. Offensively, it carries missiles and powerful cannons.","""The Exterminator is a\ntransport ship that can\ncarry hundreds of troops\nas well as smaller\nvessels. It is very well\ndefended. Offensively,\nit carries missiles and\npowerful cannons.""",ds
+00009b85,Air Mines,"""Air Mines""",ds
+00009b8f,Homing Missiles,"""Homing Missiles""",ds
+00009b9f,Magnetic Cannon,"""Magnetic Cannon""",ds
+00009c28,Basic Wing,"""Basic Wing""",ds
+00009c33,This type of dragon has no morphing abilities and limited spell casting abilities.,"""This type of dragon\nhas no morphing\nabilities and limited\nspell casting abilities.""",ds
+00009cf8,Valiant Wing,"""Valiant Wing""",ds
+00009d05,Acquired after defeating the Gigra. The Valiant Wing can change its shape as well as its abilities.,"""Acquired after defeating\nthe Gigra. The Valiant\nWing can change its\nshape as well as its\nabilities.""",ds
+00009db3,tDRAGONM1.MCB,"""tDRAGONM1.MCB""",ds
+00009dc1,DRAGONM1.CGB,"""DRAGONM1.CGB""",ds
+00009ddc,Defense Class,"""Defense Class""",ds
+00009dea,"This form offers an improved armor class at the cost of speed. If all three gauges are full, it can cast a spell that enhances its armor.","""This form offers an\nimproved armor class at\nthe cost of speed.\nIf all three gauges are\nfull, it can cast a\nspell that enhances its\narmor.""",ds
+00009ec9,DRAGONM1.CGB,"""DRAGONM1.CGB""",ds
+00009ee4,Attack Class,"""Attack Class""",ds
+00009ef1,"This form has powerful lasers, but has reduced magic capabilities. If all of its gauges are full, it will automatically counterattack.","""This form has powerful\nlasers, but has reduced\nmagic capabilities. If\nall of its gauges are\nfull, it will\nautomatically\ncounterattack.""",ds
+00009fcd,DRAGONM1.CGB,"""DRAGONM1.CGB""",ds
+00009fe8,Agility Class,"""Agility Class""",ds
+00009ff6,"This type of dragon is exceptionally fast. In order to streamline itself, it must reduce its armor class. If all three gauges are full, it can cast a spell that increases its overall speed.","""This type of dragon\nis exceptionally fast.\nIn order to streamline\nitself, it must reduce\nits armor class. If all\nthree gauges are full,\nit can cast a spell that\nincreases its overall\nspeed.""",ds
+0000a109,DRAGONM1.CGB,"""DRAGONM1.CGB""",ds
+0000a124,Spiritual Class,"""Spiritual Class""",ds
+0000a134,"This type of dragon has increased magical capabilities, at the cost of its laser power. If all three gauges are full, it can cast a spell that replenishes a fraction of its Berserk Points.","""This type of dragon\nhas increased magical\ncapabilities, at the\ncost of its laser power.\nIf all three gauges are\nfull, it can cast a\nspell that replenishes\na fraction of its\nBerserk Points.""",ds
+0000a249,DRAGONM1.CGB,"""DRAGONM1.CGB""",ds
+0000a264,Stripe Wing,"""Stripe Wing""",ds
+0000a270,"Characterized by a striped pattern on its wings, this form of dragon was acquired after the battle in Georgius.","""Characterized by a\nstriped pattern on its\nwings, this form of\ndragon was acquired\nafter the battle in\nGeorgius.""",ds
+0000a335,DRAGONM2.CGB,"""DRAGONM2.CGB""",ds
+0000a350,Defense Class,"""Defense Class""",ds
+0000a35e,"This form offers an improved armor class at the cost of speed. If all three gauges are full, it can cast a spell that enhances its armor.","""This form offers an\nimproved armor class at\nthe cost of speed.\nIf all three gauges are\nfull, it can cast a\nspell that enhances its\narmor.""",ds
+0000a43d,DRAGONM2.CGB,"""DRAGONM2.CGB""",ds
+0000a458,Attack Class,"""Attack Class""",ds
+0000a465,"This form has powerful lasers, but has reduced magic capabilities. If all of its gauges are full, it will automatically counterattack.","""This form has powerful\nlasers, but has reduced\nmagic capabilities. If\nall of its gauges are\nfull, it will\nautomatically\ncounterattack.""",ds
+0000a541,DRAGONM2.CGB,"""DRAGONM2.CGB""",ds
+0000a55c,Agility Class,"""Agility Class""",ds
+0000a56a,"This type of dragon is exceptionally fast. In order to streamline itself, it must reduce its armor class. If all three gauges are full, it can cast a spell that increases its overall speed.","""This type of dragon\nis exceptionally fast.\nIn order to streamline\nitself, it must reduce\nits armor class. If all\nthree gauges are full,\nit can cast a spell that\nincreases its overall\nspeed.""",ds
+0000a67d,DRAGONM2.CGB,"""DRAGONM2.CGB""",ds
+0000a698,Spiritual Class,"""Spiritual Class""",ds
+0000a6a8,"This type of dragon has increased magical capabilities, at the cost of its laser power. If all three gauges are full, it can cast a spell that replenishes a fraction of its Berserk Points.","""This type of dragon\nhas increased magical\ncapabilities, at the\ncost of its laser power.\nIf all three gauges are\nfull, it can cast a\nspell that replenishes\na fraction of its\nBerserk Points.""",ds
+0000a7bd,DRAGONM2.CGB,"""DRAGONM2.CGB""",ds
+0000a7d8,Panzer Wing,"""Panzer Wing""",ds
+0000a7e4,This form was acquired after defeating the Basilus. It is heavily armored.,"""This form was acquired\nafter defeating the\nBasilus. It is heavily\narmored.""",ds
+0000a885,DRAGONM3.CGB,"""DRAGONM3.CGB""",ds
+0000a8a0,Defense Class,"""Defense Class""",ds
+0000a8ae,"This form offers an improved armor class at the cost of speed. If all three gauges are full, it can cast a spell that enhances its armor.","""This form offers an\nimproved armor class at\nthe cost of speed.\nIf all three gauges are\nfull, it can cast a\nspell that enhances its\narmor.""",ds
+0000a98d,DRAGONM3.CGB,"""DRAGONM3.CGB""",ds
+0000a9a8,Attack Class,"""Attack Class""",ds
+0000a9b5,"This form has powerful lasers, but has reduced magic capabilities. If all of its gauges are full, it will automatically counterattack.","""This form has powerful\nlasers, but has reduced\nmagic capabilities. If\nall of its gauges are\nfull, it will\nautomatically\ncounterattack.""",ds
+0000aa91,DRAGONM3.CGB,"""DRAGONM3.CGB""",ds
+0000aaac,Agility Class,"""Agility Class""",ds
+0000aaba,"This type of dragon is exceptionally fast. In order to streamline itself, it must reduce its armor class. If all three gauges are full, it can cast a spell that increases its overall speed.","""This type of dragon\nis exceptionally fast.\nIn order to streamline\nitself, it must reduce\nits armor class. If all\nthree gauges are full,\nit can cast a spell that\nincreases its overall\nspeed.""",ds
+0000abcd,DRAGONM3.CGB,"""DRAGONM3.CGB""",ds
+0000abe8,Spiritual Class,"""Spiritual Class""",ds
+0000abf8,"This type of dragon has increased magical capabilities, at the cost of its laser power. If all three gauges are full, it can cast a spell that replenishes a fraction of its Berserk Points.","""This type of dragon\nhas increased magical\ncapabilities, at the\ncost of its laser power.\nIf all three gauges are\nfull, it can cast a\nspell that replenishes\na fraction of its\nBerserk Points.""",ds
+0000ad0d,DRAGONM3.CGB,"""DRAGONM3.CGB""",ds
+0000ad28,Eye Wing,"""Eye Wing""",ds
+0000ad31,Acquired after defeating Atolm. Characterized by the Eye-like designs on its wings.,"""Acquired after defeating\nAtolm. Characterized\nby the Eye-like designs\non its wings.""",ds
+0000addd,DRAGONM4.CGB,"""DRAGONM4.CGB""",ds
+0000adf8,Defense Class,"""Defense Class""",ds
+0000ae06,"This form offers an improved armor class at the cost of speed. If all three gauges are full, it can cast a spell that enhances its armor.","""This form offers an\nimproved armor class at\nthe cost of speed.\nIf all three gauges are\nfull, it can cast a\nspell that enhances its\narmor.""",ds
+0000aee5,DRAGONM4.CGB,"""DRAGONM4.CGB""",ds
+0000af00,Attack Class,"""Attack Class""",ds
+0000af0d,"This form has powerful lasers, but has reduced magic capabilities. If all of its gauges are full, it will automatically counterattack.","""This form has powerful\nlasers, but has reduced\nmagic capabilities. If\nall of its gauges are\nfull, it will\nautomatically\ncounterattack.""",ds
+0000afe9,DRAGONM4.CGB,"""DRAGONM4.CGB""",ds
+0000b004,Agility Class,"""Agility Class""",ds
+0000b012,"This type of dragon is exceptionally fast. In order to streamline itself, it must reduce its armor class. If all three gauges are full, it can cast a spell that increases its overall speed.","""This type of dragon\nis exceptionally fast.\nIn order to streamline\nitself, it must reduce\nits armor class. If all\nthree gauges are full,\nit can cast a spell that\nincreases its overall\nspeed.""",ds
+0000b125,DRAGONM4.CGB,"""DRAGONM4.CGB""",ds
+0000b140,Spiritual Class,"""Spiritual Class""",ds
+0000b150,"This type of dragon has increased magical capabilities, at the cost of its laser power. If all three gauges are full, it can cast a spell that replenishes a fraction of its Berserk Points.","""This type of dragon\nhas increased magical\ncapabilities, at the\ncost of its laser power.\nIf all three gauges are\nfull, it can cast a\nspell that replenishes\na fraction of its\nBerserk Points.""",ds
+0000b265,DRAGONM4.CGB,"""DRAGONM4.CGB""",ds
+0000b280,Arm Wing,"""Arm Wing""",ds
+0000b289,Acquired after defeating the Infested Grig Orig. The dragon's body has taken on a slightly more human appearance.,"""Acquired after defeating\nthe Infested Grig Orig.\nThe dragon's body has\ntaken on a slightly more\nhuman appearance.""",ds
+0000b36c,Defense Class,"""Defense Class""",ds
+0000b37a,"This form offers an improved armor class at the cost of speed. If all three gauges are full, it can cast a spell that enhances its armor.","""This form offers an\nimproved armor class at\nthe cost of speed.\nIf all three gauges are\nfull, it can cast a\nspell that enhances its\narmor.""",ds
+0000b474,Attack Class,"""Attack Class""",ds
+0000b481,"This form has powerful lasers, but has reduced magic capabilities. If all of its gauges are full, it will automatically counterattack.","""This form has powerful\nlasers, but has reduced\nmagic capabilities. If\nall of its gauges are\nfull, it will\nautomatically\ncounterattack.""",ds
+0000b578,Agility Class,"""Agility Class""",ds
+0000b586,"This type of dragon is exceptionally fast. In order to streamline itself, it must reduce its armor class. If all three gauges are full, it can cast a spell that increases its overall speed.","""This type of dragon\nis exceptionally fast.\nIn order to streamline\nitself, it must reduce\nits armor class. If all\nthree gauges are full,\nit can cast a spell that\nincreases its overall\nspeed.""",ds
+0000b68b,LDRAGONM5.MCB,"""LDRAGONM5.MCB""",ds
+0000b6b4,Spiritual Class,"""Spiritual Class""",ds
+0000b6c4,"This type of dragon has increased magical capabilities, at the cost of its laser power. If all three gauges are full, it can cast a spell that replenishes a fraction of its Berserk Points.","""This type of dragon\nhas increased magical\ncapabilities, at the\ncost of its laser power.\nIf all three gauges are\nfull, it can cast a\nspell that replenishes\na fraction of its\nBerserk Points.""",ds
+0000b7f4,Light Wing,"""Light Wing""",ds
+0000b7ff,"After collecting all of the D-Units, and some literature, the dragon has taken on a new form.","""After collecting all\nof the D-Units, and\nsome literature, the\ndragon has taken on a\nnew form.""",ds
+0000b8d0,Solo Wing,"""Solo Wing""",ds
+0000b8da,The dragon has taken the form of one of the ancient dragons that destroyed the Imperial Capital long ago.,"""The dragon has taken the\nform of one of the\nancient dragons that\ndestroyed the Imperial\nCapital long ago.""",ds
+0000b98b,LDRAGONM7.MCB,"""LDRAGONM7.MCB""",ds
+0000b9b4,Defense Class,"""Defense Class""",ds
+0000b9c2,"This form offers an improved armor class at the cost of speed. If all three gauges are full, it can cast a spell that enhances its armor.","""This form offers an\nimproved armor class at\nthe cost of speed.\nIf all three gauges are\nfull, it can cast a\nspell that enhances its\narmor.""",ds
+0000babc,Attack Class,"""Attack Class""",ds
+0000bac9,"This form has powerful lasers, but has reduced magic capabilities. If all of its gauges are full, it will automatically counterattack.","""This form has powerful\nlasers, but has reduced\nmagic capabilities. If\nall of its gauges are\nfull, it will\nautomatically\ncounterattack.""",ds
+0000bbc0,Agility Class,"""Agility Class""",ds
+0000bbce,"This type of dragon is exceptionally fast. In order to streamline itself, it must reduce its armor class. If all three gauges are full, it can cast a spell that increases its overall speed.","""This type of dragon\nis exceptionally fast.\nIn order to streamline\nitself, it must reduce\nits armor class. If all\nthree gauges are full,\nit can cast a spell that\nincreases its overall\nspeed.""",ds
+0000bcfc,Spiritual Class,"""Spiritual Class""",ds
+0000bd0c,"This type of dragon has increased magical capabilities, at the cost of its laser power. If all three gauges are full, it can cast a spell that replenishes a fraction of its Berserk Points.","""This type of dragon\nhas increased magical\ncapabilities, at the\ncost of its laser power.\nIf all three gauges are\nfull, it can cast a\nspell that replenishes\na fraction of its\nBerserk Points.""",ds
+0000be3c,Floater,"""Floater""",ds
+0000be44,"A hovercraft armed with maintenance lasers, its purpose was to travel through the enormous underground facilities in Uru.","""A hovercraft armed with\nmaintenance lasers, its\npurpose was to travel\nthrough the enormous\nunderground facilities\nin Uru.""",ds
