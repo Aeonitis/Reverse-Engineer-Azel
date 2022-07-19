@@ -5,32 +5,7 @@
 [//]: # (<img src="https://i.imgur.com/1VVvIKP.png" width="400" height="180">)
 # Assembly
 Each time the SH2 accesses a global variable, a 32-bit absolute address must be loaded into a register (from a literal a 32-bit absolute address must be loaded into a register (from a literal
-pool). Only then can the memory location (variable) be accessed. 
-
-
-## Processors
-- Two Hitachi SuperH-2 7604 32-bit RISC processors at 28.63 MHz (25 MIPS)—each has 4 kB on-chip cache (4-way associative), of which 2 kB can alternatively be used as directly addressable Scratchpad RAM
-- Hitachi VDP 1 32-bit video display processor (running at 28.63 MHz on NTSC and PAL Systems) for sprites/polygons
-- Yamaha VDP 2 32-bit video display processor (running at 28.63 MHz on NTSC and PAL Systems) for backgrounds/video out
-- Yamaha System Control Unit (SCU) with DSP for geometry processing and DMA controller (running at 14.3 MHz)
-- Motorola 68EC000 sound controller (running at 11.3 MHz / 1.5 MIPS)
-- Yamaha FH1 DSP sound processor, "Saturn Custom Sound Processor" (SCSP), running at 22.6 MHz
-- SH-1 32-bit RISC microcontroller (for the CD-ROM and CD security checks; uses preprogrammed embedded ROM, not programmable by software)
-- Hitachi 4-bit MCU, "System Manager & Peripheral Control" (SMPC)
-
-
-## Memory
-- 1 MiB SDRAM as work RAM for both SH-2 CPUs (faster)
-- 1 MiB DRAM as work RAM for both SH-2 CPUs (slower)
-- 512 KiB VDP1 SDRAM for 3D graphics (Texture data for polygon/sprites and drawing command lists)
-- 2x 256 KiB VDP1 SDRAM for 3D graphics (Two framebuffers for double-buffered polygon/sprite rendering)
-- 512 KiB VDP2 SDRAM for 2D graphics (Texture data for the background layers and display lists)
-- 4 KiB VDP2 SRAM for color palette data and rotation coefficient data (local, on-chip SRAM)
-- 512 KiB DRAM for sound. (Multiplexed as sound CPU work RAM, SCSP DSP RAM, and SCSP wavetable RAM)
-- 512 KiB DRAM as work RAM for the CD-ROM subsystem's SH-1 CPU
-- 32 KiB SRAM with battery back-up for data retention.
-- 512 KiB Mask ROM for the SH-2 BIOS
-
+pool). Only then can the memory location (variable) be accessed.
 
 ## Instruction Set
 Below are the Classifications of CPU instructions which apply to both the Saturn's SH-2 & SH-DSP.

@@ -12,11 +12,21 @@ The NSA's Ghidra (Generic Hexadecimal Integrated Decompiling Reverse-Engineering
 
 ## Project Overview
 - Day one of progress? 
-  - Disassembled [MENUEN.PRG](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/AZEL%20Disc%201/PRG/MENUEN.PRG/DefinedDataDetailed.md)
+  - Disassembled [MENUEN.PRG](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/AZEL%20Disc%201/PRG/MENUEN.PRG.md)
 - Project [Wiki](https://github.com/Aeonitis/Reverse-Engineer-Azel/wiki)
 - My [Solo Diary](https://github.com/Aeonitis/Reverse-Engineer-Azel/wiki/Logs-%5BSolo%5D)
 
 Opened ROM, 1695 files - [fullFileListOfDiscOne.txt](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/AZEL%20Disc%201/fullFileListOfDiscOne.txt)
+
+## Progress
+
+### PRGs
+
+Filename | Percentage | Decompiled (bytes) | Total (bytes)
+---|------------|--------------------|---
+1ST_READ.PRG | 74.70%     | 1,908              | 2,554
+MENUEN.PRG | 54.39%     | 26,624             | 48,944
+WORLD.PRG | 21.66%     | 829                |3827
 
 ## Wanna contribute?
 You're welcome!
@@ -24,21 +34,6 @@ You're welcome!
 I have a per-file discussion issue under the [focus on file](https://github.com/Aeonitis/Reverse-Engineer-Azel/labels/focus%20on%20file) label & you can get started on any file you like!
 
 Any assembly genius info you have? Feel free to share on the [Issues](https://github.com/Aeonitis/Reverse-Engineer-Azel/issues) section as a comment :)
-
-# Sega Saturn
-Processor type: SH-2 (SuperH-2, 32-bit, 62 supported instructions) from SuperH family
-
-Specs (e.g. VA15 Sega Saturn)
-- Main CPU: Hitachi SH-2 (Model #**SH7604**) Dual CPU @28.6MHz. Two Hitachi 32-bit RISC processors at 28.63 MHz (25 MIPS)—each has 4 kB on-chip cache (4-way associative), of which 2 kB can alternatively be used as directly addressable Scratchpad RAM
-- RAM: 2MB RAM, 1.5MB VRAM with slot for external expansion
-- CD Drive: JVC HQA-001A HQ100002-002 610-6294-20 (Sanyo 610-6294-30)
-- Sound Processor: Yamaha SCSP (Saturn Custom Sound Processor) YMF292
-- Sound CPU: Motorola 68EC000
-
-
-- [Technical Specs](https://gamicus.fandom.com/wiki/Saturn)
-- [Specs](https://www.copetti.org/writings/consoles/sega-saturn)
-- [Hardware revisions](https://segaretro.org/Sega_Saturn/Hardware_revisions)
 
 
 # Panzer Dragoon Saga 
@@ -61,14 +56,13 @@ General
 - [Ghidra Sega Saturn Loader](https://github.com/VGKintsugi/Ghidra-SegaSaturn-Loader)
 - [Sega Saturn Emulated Hardware](https://github.com/FCare/Kronos)
 - [Game Modification Utilities](https://www.zophar.net/utilities/mod.html)
+- [SH-2CPU (Memory Map)](https://wiki.yabause.org/index.php5?title=SH-2CPU)
 - [Ghidra Releases](https://github.com/NationalSecurityAgency/ghidra/releases)
 
-
 ### Emulation
-- https://fantasyanime.com/emuhelp/uoyabause
-- https://wiki.yabause.org/index.php5?title=SH-2CPU
-- https://github.com/cyberwarriorx/yssloader
-- https://wiki.yabause.org
+- [uoYabause Tutorial](https://fantasyanime.com/emuhelp/uoyabause)
+- [YSS Loader](https://github.com/cyberwarriorx/yssloader)
+- [Yabause Wiki](https://wiki.yabause.org)
 
 ### Saturn tools
 - [Jo-Engine (2D and 3D game engine)](https://github.com/johannes-fetz/joengine)

@@ -1,5 +1,30 @@
 # MENUEN.PRG
 
+```
+Project File Name: 	MENUEN.PRG
+Readonly:	false
+Program Name:	MENUEN.PRG
+Language ID:	SuperH:BE:32:SH-2 (1.0)
+Compiler ID:	default
+Processor:	SuperH
+Endian:	Big
+Address Size:	32
+Minimum Address:	00000000
+Maximum Address:	0000bf2f
+No. of Bytes:	48944
+No. of Memory Blocks:	1
+No. of Instructions:	8354
+No. of Defined Data:	983
+No. of Functions:	55
+No. of Symbols:	115
+No. of Data Types:	4
+No. of Data Type Categories:	1
+Analyzed:	true
+Created With Ghidra Version:	10.1.4
+Executable Format:	Raw Binary
+Executable MD5:	7f727587bdf28a0f02f7b5c8f26fb000
+Executable SHA256: acc1d0ac255b9800b07c1fc04b15f7351600df1ac83cbe429d3f5c793a017601
+```
 
 | Location | Size (Bytes) | String Value                                                                                                                                                                                                            | String Representation                                                                                                                                                                                                              | Data Type | Type   |
 |----------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|--------|
