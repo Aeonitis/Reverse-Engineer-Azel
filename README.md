@@ -25,6 +25,7 @@ Opened ROM, 1695 files - [fullFileListOfDiscOne.txt](https://github.com/Aeonitis
 Filename | Percentage | Decompiled (bytes) | Total (bytes)
 ---|------------|--------------------|---
 1ST_READ.PRG | 74.70%     | 1,908              | 2,554
+BTL_A3.PRG | 8.65%      | 3,256              | 37,660
 MENUEN.PRG | 54.39%     | 26,624             | 48,944
 WORLD.PRG | 21.66%     | 829                |3827
 
