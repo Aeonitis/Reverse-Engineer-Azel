@@ -1,4 +1,19 @@
 # 1ST_READ.PRG
+
+As stated in the Sega document **Disc Format Standards Specification Sheet**.
+
+>   1st Read File
+
+>"While the SEGA logo license is displayed (while executing the security code), the file
+read by the boot system (file identifier [2]) is called the 1st Read File. Display of the
+SEGA logo license continues until reading of the 1st Read File has ended. Consequently, the display time of the SEGA logo license screen increases as the size of the
+transfer file increases. The minimum display time is 2 seconds; the maximum is 3.5
+seconds.
+When the 1st Read Address is set, the 1st Read File is read but not executed. This
+may not be specified, but to use time during SEGA Logo License display effectively,
+its use is recommended."
+
+
 - No. of Bytes:	253650
 - No. of Memory Blocks:	1
 - No. of Instructions:	1926
@@ -21,7 +36,7 @@
 
 ## Data
 
-|Location| Size (Bytes) |Data                                   |Type       |Description                          |
+|Location| Size (bytes) |Data                                   |Type       |Description                          |
 |--------|--------------|---------------------------------------|-----------|-------------------------------------|
 |0000056c| 4            |0604B030h                              |undefined4 |                                     |
 |0000059c| 4            |06036B32h                              |undefined4 |                                     |
@@ -318,7 +333,7 @@
 
 ## Functions
 
-|Location|Size (kB)|Name        |Function Signature       |
+|Location|Size (bytes)|Name        |Function Signature       |
 |--------|---------|------------|-------------------------|
 |00000534|54       |FUN_00000534|int FUN_00000534()       |
 |00002af0|98       |FUN_00002af0|void FUN_00002af0()      |

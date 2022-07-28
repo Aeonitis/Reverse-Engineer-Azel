@@ -10,6 +10,7 @@
 - 32 KiB SRAM with battery back-up for data retention.
 - 512 KiB Mask ROM for the SH-2 BIOS
 
+[SH2-Cache (Blog)](http://www.uoyabause.org/blogs/57)
 
 ## Memory Map
 

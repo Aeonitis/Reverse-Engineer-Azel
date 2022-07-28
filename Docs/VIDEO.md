@@ -54,5 +54,6 @@ Programmable display resolution:
 - Hi-Vision: 352×480 or 704×480, non-interlaced (progressive scan)
 
 Additional Info:
-https://segaxtreme.net/threads/mad-video-codec-source-code-released-for-sega-saturn.24825
-https://wiki.multimedia.cx/index.php/BRP
+- [https://github.com/ReyeMe/ModelConverter](https://github.com/ReyeMe/ModelConverter)
+- [Mad Video Codec source code](https://segaxtreme.net/threads/mad-video-codec-source-code-released-for-sega-saturn.24825)
+- [BRP file-format](https://wiki.multimedia.cx/index.php/BRP)

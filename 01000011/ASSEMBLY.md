@@ -4,8 +4,10 @@
 
 [//]: # (<img src="https://i.imgur.com/1VVvIKP.png" width="400" height="180">)
 # Assembly
-Each time the SH2 accesses a global variable, a 32-bit absolute address must be loaded into a register (from a literal a 32-bit absolute address must be loaded into a register (from a literal
+Each time the SH2 accesses a global variable, a 32-bit absolute address must be loaded into a register from a literal a 32-bit absolute address must be loaded into a register (from a literal
 pool). Only then can the memory location (variable) be accessed.
+
+> Note: Even though the SH-2 is the main CPU, be aware that the Saturn is an 8-processor monster e.g. the disk reading is handles by an SH-1.
 
 ## Instruction Set
 Below are the Classifications of CPU instructions which apply to both the Saturn's SH-2 & SH-DSP.
