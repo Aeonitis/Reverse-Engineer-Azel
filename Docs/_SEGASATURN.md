@@ -10,13 +10,27 @@ Specs (e.g. VA15 Sega Saturn)
 
 ## Processors
 - Two Hitachi SuperH-2 7604 32-bit RISC processors at 28.63 MHz (25 MIPS)—each has 4 kB on-chip cache (4-way associative), of which 2 kB can alternatively be used as directly addressable Scratchpad RAM
-- Hitachi VDP 1 32-bit video display processor (running at 28.63 MHz on NTSC and PAL Systems) for sprites/polygons
-- Yamaha VDP 2 32-bit video display processor (running at 28.63 MHz on NTSC and PAL Systems) for backgrounds/video out
+- Hitachi VDP1 32-bit video display processor (running at 28.63 MHz on NTSC and PAL Systems) for sprites/polygons
+- Yamaha VDP2 32-bit video display processor (running at 28.63 MHz on NTSC and PAL Systems) for backgrounds/video out
 - Yamaha System Control Unit (SCU) with DSP for geometry processing and DMA controller (running at 14.3 MHz)
 - Motorola 68EC000 sound controller (running at 11.3 MHz / 1.5 MIPS)
 - Yamaha FH1 DSP sound processor, "Saturn Custom Sound Processor" (SCSP), running at 22.6 MHz
 - SH-1 32-bit RISC microcontroller (for the CD-ROM and CD security checks; uses pre-programmed embedded ROM, not programmable by software)
 - Hitachi 4-bit MCU, "System Manager & Peripheral Control" (SMPC)
+
+## Translation
+
+Sega Saturn seems to use the [Shift-JIS](https://en.wikipedia.org/wiki/Shift_JIS) character encoding system. I have what I believe to be the file/table used for translation, the [sjis.tbl](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/Docs/sjis.tbl)
+
+- [Discussion on Translation](https://www.romhacking.net/forum/index.php?topic=24835.0)
+- [Tips for pulling Japanese script from Sega Saturn games?](https://www.romhacking.net/forum/index.php?topic=30489.0)
+- [Bulk Slash English Localization Dev Blog #1: New beginnings and the trouble with subtitles](https://www.segasaturnshiro.com/2021/12/17/bulk-slash-english-localization-dev-blog-1-new-beginnings-and-the-trouble-with-subtitles)
+- [Bulk Slash English Localization Dev Blog #2: One character at a time](https://www.segasaturnshiro.com/2021/12/31/bulk-slash-english-localization-dev-blog-2-one-character-at-a-time)
+- [DF Retro Live stream: Bulk Slash English Translation @15 Sept 2021](https://www.youtube.com/watch?v=wRqWM-gUMOE)
+- [Shift-JIS Kanji Table](http://www.rikai.com/library/kanjitables/kanji_codes.sjis.shtml)
+
+
+## Technical Specs
 
 - [Technical Specs](https://gamicus.fandom.com/wiki/Saturn)
 - [Specs](https://www.copetti.org/writings/consoles/sega-saturn)
@@ -24,4 +38,9 @@ Specs (e.g. VA15 Sega Saturn)
 - [Sega-Saturn projects](https://segaxtreme.net/threads/collect-saturn-github-projects.24265)
 - [Other Sega-Saturn projects](https://www.reddit.com/r/SegaSaturn/comments/ud3yry/list_of_sega_saturn_fan_translations)
 - [Saturn Tools/Resources](https://segaxtreme.net/resources/syutokou_97-syutoko-battle-97-drift-king-97.129)
-- [Japanese Character Table](https://mattsmessyroom.com/uploads/sjis.tbl)
+- [How to do Sega Saturn development in Visual Studio Code](https://www.infochunk.com/saturn/vscode.html)
+
+## General Discussions
+
+- [Sega Saturn Programming Difficulty](https://www.reddit.com/r/retrogaming/comments/dn275r/sega_saturn_programming_difficulty)
+- [Sega Saturn Homebrew with Game BASIC](https://flybacklabs.com/sega-saturn-homebrew-with-game-basic)

@@ -1,13 +1,14 @@
-<p align="center">
-  <img src="https://i.imgur.com/YcYqawq.png">
-</p>
-
-[//]: # (<img src="https://i.imgur.com/1VVvIKP.png" width="400" height="180">)
 # Assembly
 Each time the SH2 accesses a global variable, a 32-bit absolute address must be loaded into a register from a literal a 32-bit absolute address must be loaded into a register (from a literal
 pool). Only then can the memory location (variable) be accessed.
 
 > Note: Even though the SH-2 is the main CPU, be aware that the Saturn is an 8-processor monster e.g. the disk reading is handles by an SH-1.
+
+<p align="center">
+  <img src="https://i.imgur.com/YcYqawq.png">
+</p>
+
+[//]: # (<img src="https://i.imgur.com/1VVvIKP.png" width="400" height="180">)
 
 ## Instruction Set
 Below are the Classifications of CPU instructions which apply to both the Saturn's SH-2 & SH-DSP.
@@ -166,7 +167,19 @@ This distinction in interactions with or without the DSP may hopefully help us e
 ■ Displacements multiplied by size of access.
 
 
+## F.A.Q.
 
+**Does the SH2 have delayed instructions, and how does that work?**
+
+Also  known as "delayed branching", which allows certain instructions to be executed after a branch instruction has been executed, instead of immediately before.
+
+The purpose of delayed branching is to reduce the number of cycles that are lost due to pipeline stalls caused by a branch instruction. When a branch instruction is executed, the processor must first determine the target address of the branch and then flush the pipeline, since the instructions that follow the branch may not be the ones that were originally fetched. 
+
+This allows certain instructions to execute after a branch instruction, instead of immediately before.
+
+Delayed branching works by allowing certain instructions to be executed after a branch instruction has been executed, instead of immediately before. For example, if a branch instruction is followed by an instruction that sets a flag or updates a register, the processor can execute the instruction before it calculates the target address of the branch. 
+
+This helps to hide the latency of the branch instruction and keep the pipeline full, reducing the number of cycles that are lost due to pipeline stalls.
 
 
 ## Architecture
@@ -174,5 +187,14 @@ This distinction in interactions with or without the DSP may hopefully help us e
 ‘C’ source generally compiles into small objects, thanks to the SH’s 16- ‘C’ source generally compiles into small object, thanks to the SH’s 16-bit instructions (i.e. smaller than x86, 680x0, MIPS, ARM) bit instructions (i.e. smaller than x86, 680x0, MIPS, ARM)
 
 [Forum Discussions](https://www.sega-16.com/forum/archive/index.php/t-17176.html)
+[Video @GameHut - Coding for the World's Trickiest Chip – SEGA's Saturn DSP](https://youtu.be/n8plen8cLro)
+[Discussion - Coding for the World's Trickiest Chip – SEGA's Saturn DSP](https://news.ycombinator.com/item?id=18637179)
 
+
+Dev/Rev on Sega Saturn games
+- [Saturn Hacking notes](https://segaxtreme.net/threads/saturn-hacking-notes.4934)
+- [Mick West - 1995 Programming on the Sega Saturn](https://cowboyprogramming.com/2010/06/03/1995-programming-on-the-sega-saturn)
+- [Mick West - Coding practices in 1991](https://cowboyprogramming.com/2008/11/15/my-coding-practices-in-1991)
+- [Fan Reverse-Engineers Saturn Version of Quake for PC Port](https://www.segasaturnshiro.com/2022/07/21/fan-reverse-engineers-saturn-version-of-quake-for-pc-port)
+- [Dev on Quake Saturn](http://richwhitehouse.com/index.php?postid=68#sect_32_2)
 
