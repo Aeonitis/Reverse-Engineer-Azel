@@ -1,6 +1,8 @@
 # Anomalies ✨
 A thing, situation, etc. that is different from what is normal or expected. That's what we're here for! 
 
+
+
 ## Triggers
 Any piece of data related to a known in-game event/location trigger.
 - **TWN_CAMP.PRG** - String **!SEGASEGASEGASEGA!** is an easter egg @000155b6 triggered in Dermot's Ranch
