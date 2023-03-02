@@ -5,22 +5,45 @@
 # Reverse-Engineering Azel RPG
 Why? 
 
-Well, the article [Sega's Missing Masterpiece](https://www.theringer.com/2018/1/29/16940902/1998-video-games-panzer-dragoon-saga-missing-masterpiece) probably makes the case for me.
+Well, the article [Sega's Missing Masterpiece](https://www.theringer.com/2018/1/29/16940902/1998-video-games-panzer-dragoon-saga-missing-masterpiece) probably makes a great case.
 
-The NSA's Ghidra (Generic Hexadecimal Integrated Decompiling Reverse-Engineering Architecture) added [support](https://github.com/NationalSecurityAgency/ghidra/pull/715) from v9.1 onwards for the SH-2 processor, and I was interested to learn!
+The NSA's Ghidra (Generic Hexadecimal Integrated Decompiling Reverse-Engineering Architecture) added [support](https://github.com/NationalSecurityAgency/ghidra/pull/715) from v9.1 onwards for the SH-2 processor, and I was interested in becoming a digital archeologist!
 
 
 ## Project Overview
 
-Project [Wiki](https://github.com/Aeonitis/Reverse-Engineer-Azel/wiki)
+[Wiki/Discord](https://github.com/Aeonitis/Reverse-Engineer-Azel/wiki)
+
+[Discussions](https://github.com/Aeonitis/Reverse-Engineer-Azel/discussions)
 
 - Day one of progress? 
-  - Disassembled [MENUEN.PRG](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/AZEL%20Disc%201/PRG/MENUEN.PRG.md)
-- Interesting finds/easter eggs in progress? Go to [ANOMALIES.MD](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/ANOMALIES.MD)
-- Disc Analysis: File info [@AZEL#I.MD](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/AZEL%20Disc%201/AZEL%23I.md)
-- Assembly Code: [01000011](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/01000011/ASSEMBLY.md)
-- Strange words & terms found [@GLOSSARY.MD](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/GLOSSARY.MD)
+  - Disassembled [MENUEN.PRG](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/AZEL_1/PRG/MENUEN.PRG.md)
+- Interesting finds/easter eggs in progress? Go to [Anomalies](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/Docs/ANOMALIES.MD)
+- Disc Analysis: File info [@AZEL#I.MD](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/AZEL_1/AZEL%23I.md)
+- Assembly Code: [01000011](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/AZEL_1/0x00/_ASSEMBLY.md)
+- Strange words & terms found [@Glossary](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/Docs/_Glossary.md)
 - My Journey in Reverse Engineering [@Solo Logs](https://github.com/Aeonitis/Reverse-Engineer-Azel/wiki/Logs-%5BSolo%5D)
+
+## Directory structure
+```
+├── AZEL_1             // Disc 1 specific info.
+│   ├── 01000011       // C code for Disc 1
+│   ├── 0x00           // Assembly code for Disc 1
+│   ├── AZEL#I.md      // Disc 1 analysis
+│   ├── BIN            // Data under BIN file-types
+│   └── PRG            // Data under PRG file-types
+│
+├── Abstract           // Unconfirmed but potentially useful data for future cross-checking
+│
+├── Docs               // Documentation.
+│   ├── ANOMALIES.md   // Unusual discoveries found and expected in future
+│   ├── AUDIO.md       // Audio documentation here
+│   ├── GLOSSARY.md    // Domain-specific documentation here
+│   ├── MEMORY.md      // Memory documentation here
+│   ├── VIDEO.md       // Video documentation here
+│   └── _SEGASATURN.md // Sega Saturn specific documentation
+└── アゼル―パンツァードラグーン-RPG.MD  // Panzer Dragoon Swagger (PDS) general information
+```
 
 ## Progress
 
@@ -36,7 +59,7 @@ TWN_CAMP.PRG | 62.39%     | 18,655             | 29,899
 WORLD.PRG | 21.66%     | 829                |3827
 
 ## Wanna contribute?
-You're welcome!
+You're welcome! Here's our [Contributing.md](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/Docs/Rubric/Contributing.md)
 
 I have a per-file discussion issue under the [focus on file](https://github.com/Aeonitis/Reverse-Engineer-Azel/labels/focus%20on%20file) label & you can get started on any file you like!
 
@@ -57,7 +80,7 @@ Panzer Dragoon Saga (PDS) a.k.a. Azel: Panzer Dragoon RPG (アゼル ―パン�
 - Use a debugger: A debugger is a software tool that allows us to step through the game code and analyze how it is executing. This can be an incredibly useful tool for reverse engineering a game, as it allows us to see how the code is working in real-time and identify key functions and data structures.
 - Patterns & Structures: When reverse engineering a game, it's important to look for patterns and structures in the code and data. This includes identifying repeating code blocks, data tables, and other patterns that can provide insight into how the game is working. Once you identify these patterns, we can start to map out the game logic and data structures.
 - Disassemble: Disassembling the game code involves converting the compiled machine code into assembly language. This can be a time-consuming process, but it can provide a deeper understanding of how the game code is working and how it is interacting with the Sega Saturn hardware.
-- Patience & Persistence = Learning whilst discovering more of one of best games ever!
+- Patience & Persistence = Learning whilst discovering more of a great game!
 
 
 ## Documentation:
@@ -74,6 +97,7 @@ Panzer Dragoon Saga (PDS) a.k.a. Azel: Panzer Dragoon RPG (アゼル ―パン�
 
 ### Panzer Dragoon Saga
 - [Panzer Dragoon Saga - The Cutting Room Floor](https://tcrf.net/Panzer_Dragoon_Saga)
+- [RetroAchievements](https://retroachievements.org/game/14506)
 
 ### Emulation
 - [uoYabause Blogs](http://www.uoyabause.org/blogs)
@@ -89,10 +113,14 @@ Panzer Dragoon Saga (PDS) a.k.a. Azel: Panzer Dragoon RPG (アゼル ―パン�
 - [Save-Game Copier](https://github.com/slinga-homebrew/Save-Game-Copier)
 - [Blender-to-Saturn-Model-Exporter](https://github.com/polygon-studio/Blender-to-Saturn-Model-Exporter)
 
-
 ### Reverse Engineering
 - [Beginner Learning Materials on Reverse Engineering Video Games](https://github.com/kovidomi/game-reversing)
 - [Decompilation Projects](https://www.resetera.com/threads/decompilation-projects-ot-free-next-gen-update-for-your-favorite-classics-a-link-to-the-past-pc-port-out-now.682687/#post-100662691)
+
+### Game Archiving
+- [Mysterious origins of an uncrackable video game](https://www.bbc.com/future/article/20190919-the-maze-puzzle-hidden-within-an-early-video-game)
+- [Game archiving faces challenges...](https://www.polygon.com/2013/3/30/4157594/game-archiving-faces-challenges-for-the-future-say-experts)
+- [Archiving video games for humanities research](https://www.cambridge.org/core/journals/art-libraries-journal/article/abs/art-and-technology-archiving-video-games-for-humanities-research-in-university-libraries/5F8C480FC76784C83C3A80940ACE4EB0)
 
 ### SuperH Family (not SH-2 processor)
 - [SH2A [SH7211] Group Hardware Manual](https://www.renesas.com/us/en/document/mah/sh7211-group-hardware-manual)

@@ -139,5 +139,13 @@ fabric.properties
 !.idea/codeStyles
 !.idea/runConfigurations
 
-# End of https://www.toptal.com/developers/gitignore/api/clion+all
+# VS Code Workspaces
+*.code-workspace
+
+# MacOS
 .DS_Store
+
+# Temporary & Draft info
+ひみつ-しょうがな.MD
+
+# End of https://www.toptal.com/developers/gitignore/api/clion+all

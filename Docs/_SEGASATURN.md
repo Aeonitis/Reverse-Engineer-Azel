@@ -18,9 +18,12 @@ Specs (e.g. VA15 Sega Saturn)
 - SH-1 32-bit RISC microcontroller (for the CD-ROM and CD security checks; uses pre-programmed embedded ROM, not programmable by software)
 - Hitachi 4-bit MCU, "System Manager & Peripheral Control" (SMPC)
 
-## Translation
 
-Sega Saturn seems to use the [Shift-JIS](https://en.wikipedia.org/wiki/Shift_JIS) character encoding system. I have what I believe to be the file/table used for translation, the [sjis.tbl](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/Docs/sjis.tbl)
+## Console Overviews
+[Sega Saturn: The Beginner's Guide](https://www.racketboy.com/retro/sega-saturn-101-beginners-guide)
+
+## Translation
+Sega Saturn seems to use the [Shift-JIS](https://en.wikipedia.org/wiki/Shift_JIS) character encoding system. I have what I believe to be the file/table used for translation, the [sjis.tbl](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/Abstract/Resources/sjis.tbl)
 
 - [Discussion on Translation](https://www.romhacking.net/forum/index.php?topic=24835.0)
 - [Tips for pulling Japanese script from Sega Saturn games?](https://www.romhacking.net/forum/index.php?topic=30489.0)
@@ -32,15 +35,15 @@ Sega Saturn seems to use the [Shift-JIS](https://en.wikipedia.org/wiki/Shift_JIS
 
 ## Technical Specs
 
+- [Best write-up on Specs](https://www.copetti.org/writings/consoles/sega-saturn)
 - [Technical Specs](https://gamicus.fandom.com/wiki/Saturn)
-- [Specs](https://www.copetti.org/writings/consoles/sega-saturn)
 - [Hardware revisions](https://segaretro.org/Sega_Saturn/Hardware_revisions)
 - [Sega-Saturn projects](https://segaxtreme.net/threads/collect-saturn-github-projects.24265)
 - [Other Sega-Saturn projects](https://www.reddit.com/r/SegaSaturn/comments/ud3yry/list_of_sega_saturn_fan_translations)
 - [Saturn Tools/Resources](https://segaxtreme.net/resources/syutokou_97-syutoko-battle-97-drift-king-97.129)
 - [How to do Sega Saturn development in Visual Studio Code](https://www.infochunk.com/saturn/vscode.html)
 
-## General Discussions
+## Interesting Discussions
 
 - [Sega Saturn Programming Difficulty](https://www.reddit.com/r/retrogaming/comments/dn275r/sega_saturn_programming_difficulty)
 - [Sega Saturn Homebrew with Game BASIC](https://flybacklabs.com/sega-saturn-homebrew-with-game-basic)

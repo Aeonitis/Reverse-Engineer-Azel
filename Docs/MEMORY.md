@@ -145,7 +145,7 @@ In your Slave SH2 main function, make sure it can't return by using an endless l
 ### Slave SH2 communication:
 
 ```
-#define SMPC_CMD_SSHON                             0x02
+#define SMPC_CMD_SSHON                          0x02
 #define SMPC_CMD_SSHOFF                         0x03
 
 volatile u32 slave_func_s;
