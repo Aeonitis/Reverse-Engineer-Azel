@@ -23,7 +23,7 @@ Specs (e.g. VA15 Sega Saturn)
 [Sega Saturn: The Beginner's Guide](https://www.racketboy.com/retro/sega-saturn-101-beginners-guide)
 
 ## Translation
-Sega Saturn seems to use the [Shift-JIS](https://en.wikipedia.org/wiki/Shift_JIS) character encoding system. I have what I believe to be the file/table used for translation, the [sjis.tbl](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/Abstract/Resources/sjis.tbl)
+Sega Saturn seems to use the [Shift-JIS](https://en.wikipedia.org/wiki/Shift_JIS) character encoding system. I have what I believe to be the file/table used for translation, the [sjis.tbl](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/base/Abstract/Resources/sjis.tbl)
 
 - [Discussion on Translation](https://www.romhacking.net/forum/index.php?topic=24835.0)
 - [Tips for pulling Japanese script from Sega Saturn games?](https://www.romhacking.net/forum/index.php?topic=30489.0)
