@@ -17,11 +17,11 @@ The NSA's Ghidra (Generic Hexadecimal Integrated Decompiling Reverse-Engineering
 [Discussions](https://github.com/Aeonitis/Reverse-Engineer-Azel/discussions)
 
 - Day one of progress? 
-  - Disassembled [MENUEN.PRG](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/AZEL_1/PRG/MENUEN.PRG.md)
-- Interesting finds/easter eggs in progress? Go to [Anomalies](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/Docs/ANOMALIES.MD)
-- Disc Analysis: File info [@AZEL#I.MD](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/AZEL_1/AZEL%23I.md)
-- Assembly Code: [01000011](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/AZEL_1/0x00/_ASSEMBLY.md)
-- Strange words & terms found [@Glossary](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/Docs/_Glossary.md)
+  - Disassembled [MENUEN.PRG](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/base/AZEL_1/PRG/MENUEN.PRG.md)
+- Interesting finds/easter eggs in progress? Go to [Anomalies](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/base/Docs/ANOMALIES.MD)
+- Disc Analysis: File info [@AZEL#I.MD](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/base/AZEL_1/AZEL%23I.md)
+- Assembly Code: [01000011](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/base/AZEL_1/0x00/_ASSEMBLY.md)
+- Strange words & terms found [@Glossary](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/base/Docs/_Glossary.md)
 - My Journey in Reverse Engineering [@Solo Logs](https://github.com/Aeonitis/Reverse-Engineer-Azel/wiki/Logs-%5BSolo%5D)
 
 ## Directory structure
@@ -59,7 +59,7 @@ TWN_CAMP.PRG | 62.39%     | 18,655             | 29,899
 WORLD.PRG | 21.66%     | 829                |3827
 
 ## Wanna contribute?
-You're welcome! Here's our [Contributing.md](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/main/Docs/Rubric/Contributing.md)
+You're welcome! Here's our [Contributing.md](https://github.com/Aeonitis/Reverse-Engineer-Azel/blob/base/Docs/Rubric/Contributing.md)
 
 I have a per-file discussion issue under the [focus on file](https://github.com/Aeonitis/Reverse-Engineer-Azel/labels/focus%20on%20file) label & you can get started on any file you like!
 
